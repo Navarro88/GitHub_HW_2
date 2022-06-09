@@ -1,0 +1,4 @@
+1.Check card number field
+2.Check card holder name
+3.Checl CVC field
+4.Check expiry data
