@@ -24,7 +24,6 @@ git push</br>
 ### 9. На внешнем репозитории сделать Pull Request ветки checklists в main</br>
 pull requests-> compare and pull request-> create pull request</br>
 ### 10. Синхронизировать Внешнюю и Локальную ветки Main</br>
-git fetch</br>
 git pull</br>
 
 
